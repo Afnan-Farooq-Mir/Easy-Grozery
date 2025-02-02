@@ -1,0 +1,11 @@
+Transaction_ID,Date,Time,Customer_ID,Item_Category,Item_Name,Quantity,Unit_Price,Discount,Total_Amount,Payment_Method
+1001,2025-01-01,10:15,CUST001,Groceries,Rice (5kg),1,250,0,250,Cash
+1002,2025-01-01,10:20,CUST002,Dairy,Milk (1 liter),2,45,5,85,Card
+1003,2025-01-01,11:00,CUST003,Bakery,Bread,1,30,0,30,Card
+1004,2025-01-02,12:30,CUST001,Personal Care,Shampoo,1,120,10,110,UPI
+1005,2025-01-02,14:00,CUST004,Groceries,Lentils (1kg),2,80,0,160,Cash
+1006,2025-01-03,16:45,CUST005,Household,Detergent (500g),1,100,0,100,Card
+1007,2025-01-03,17:00,CUST006,Groceries,Sugar (1kg),1,40,0,40,UPI
+1008,2025-01-04,09:30,CUST007,Dairy,Cheese (200g),1,150,15,135,Cash
+1009,2025-01-04,10:00,CUST008,Groceries,Cooking Oil (1L),1,200,0,200,Card
+1010,2025-01-04,11:15,CUST009,Bakery,Biscuits,3,20,0,60,UPI
